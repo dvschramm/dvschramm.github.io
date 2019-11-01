@@ -1,0 +1,278 @@
+Oceanside / North County
+33 20.880 x 117 34.050 San Onofre Kelp
+33 17.290 x 117 34.150 Box Canyon rockfish area
+33 17.015 x 117 29.475 Barn Kelp
+33 14.300 x 117 27.300 Clam Beds
+33 14.400 x 117 26.270 Golf Ball
+33 10.340 x 117 22.700 Buccaneer Pipe
+33 08.060 x 117 20.860 Encina Powerplant Pipe
+33 07.490 x 117 20.440 Terramar Kelp
+33 07.500 x 117 21.400 Carlsbad Canyon
+33 06.770 x 117 20.100 Anderson Pipe
+33 05.235 x 117 19.183 Ponto
+33 04.100 x 117 20.600 Leucadia rockfish are
+33 03.775 x 117 18.750 Beacons
+33 03.130 x 117 20.920 Encinitas rockfish ar
+North (Say north of SMCA at 33 03.000)
+32 59.410 x 117 17.300 Solana Beach Kelp
+32 57.564 x 117 16.743 Powerhouse Kelp
+32 57.191 x 117 17.981 Del Mar rockfish area
+32 54.755 x 117 15.755 Flat Rock
+
+Offshore Banks / North To South
+34 22.000 x 121 04.000 Arguello Canyon
+34 13.000 x 119 41.017 12 Mile Reef
+34 07.200 x 120 55.200 Davis Knoll
+34 02.800 x 121 03.000 Rodriguez Seamount
+33 56.600 x 121 00.000 San Miguel Gap
+33 47.500 x 118 32.000 307
+33 43.833 x 118 42.333 The Boot (504)
+33 43.800 x 119 16.000 170
+33 43.800 x 119 09.733 Hidden Reef
+33 41.000 x 118 34.500 270
+33 37.000 x 120 16.000 311 (Trask Knoll)
+33 36.850 x 118 57.117 175
+33 36.850 x 118 57.117 175
+33 34.500 x 118 36.000 286
+33 34.467 x 119 00.850 Kidney Bank (63)
+33 30.200 x 118 50.500 172
+33 30.000 x 120 30.000 Patton Ridge
+33 29.000 x 118 42.500 125
+33 24.700 x 118 13.500 Avalon Bank
+33 23.833 x 118 00.000 14 Mile Bank
+33 21.600 x 119 02.500 Osborn Bank
+33 17.800 x 117 49.150 279 / 267
+33 17.800 x 117 49.150 279 / 267
+33 17.000 x 118 14.667 The Slide
+33 16.500 x 118 44.500 499
+33 15.000 x 119 49.600 Potato Bank
+33 14.800 x 118 10.833 152
+33 12.000 x 118 04.800 277
+33 09.500 x 118 55.000 474
+33 08.000 x 119 03.000 711
+33 08.000 x 120 22.000 Sverdrup Bank (126)
+33 05.750 x 117 52.350 209
+33 03.800 x 120 58.600 San Juan Seamount
+33 02.200 x 118 23.600 Mackerel Bank
+33 01.417 x 117 48.500 312
+32 58.000 x 119 56.833 Albatross Knoll
+32 56.000 x 118 05.700 289
+32 54.500 x 118 05.000 284
+32 54.000 x 117 53.000 181
+32 54.000 x 117 18.800 La Jolla Canyon
+32 52.000 x 119 24.800 Cherry Banks
+32 49.500 x 117 49.500 51
+32 48.750 x 117 49.333 138
+32 48.750 x 117 49.333 138
+32 43.167 x 118 24.367 81
+32 43.167 x 117 47.167 140
+32 42.000 x 117 29.317 178
+32 42.000 x 119 08.000 Tanner Bank
+32 41.300 x 117 42.400 182
+32 41.000 x 118 36.500 381
+32 39.333 x 117 58.417 43
+32 39.000 x 117 43.700 166
+32 38.000 x 117 26.000 North 9 Mile Bank
+32 37.600 x 117 49.400 The Corner
+32 36.800 x 117 56.350 91
+32 35.750 x 118 00.500 300
+32 34.100 x 119 41.967 Hancock Bank
+32 32.000 x 117 21.000 South 9 Mile Bank
+32 30.000 x 118 41.000 267 (The Condom)
+32 29.667 x 117 38.000 226
+32 29.500 x 117 24.000 439
+32 26.417 x 119 07.833 Cortes Bank
+32 26.333 x 117 34.750 302 (Kidney Bank)
+32 22.500 x 118 28.000 157
+32 22.000 x 118 17.833 W. Butterfly
+32 21.417 x 117 42.417 230
+32 20.800 x 119 38.400 Northeast Bank
+32 19.000 x 117 54.000 San Salvador Knoll
+32 16417 x 118 06000 E Butterfly
+32 16.200 x 117 32.800 371
+32 15.000 x 117 15000 101
+32 15.000 x 117 23.200 425
+32 08000 x 117 52.000 421
+32 06.800 x 117 04.400 Upper Finger Bank
+32 05.000 x 117 48.800 390
+32 04.000 x 117 07.000 475 Knuckle
+32 04.000 x 118 14.833 60 Mile Bank (53 Fa.)
+32 04.000 x 118 30.000 Mushroom
+32 03.000 x 117 28.000 Upper Hidden Bank
+32 00.000 x 118 00.000 Upper Cross
+31 57.600 x 116 51.817 97
+31 57.000 x 118 59.000 The Worm
+31 54.000 x 117 50.000 378
+31 54.000 x 117 30.000 Hidden Bank
+31 52.000 x 119 28.000 Elephant
+31 50.000 x 118 07.000 The Airplane
+31 48.200 x 117 51.800 213
+31 48.000 x 116 47.400 Todos Santos Island
+31 46.000 x 117 30.000 Upper 500
+31 45.833 x 117 44.000 1010 Trench
+31 45.000 x 119 04.000 The Pistol
+31 42.000 x 117 18.000 480
+31 42.000 x 118 33.000 Dumping Grounds
+31 39.000 x 116 52.000 Banda Bank
+31 37.000 x 117 53.000 1067 Knuckle
+31 36.600 x 117 15.000 385
+31 36.300 x 118 55.800 Bell Bank (300)
+31 36.000 x 117 26.000 295
+31 36.000 x 117 05.000 475
+31 35.000 x 117 39.000 Double 220
+31 34.000 x 117 29.000 270
+31 33.000 x 117 11.000 238
+31 32.000 x 118 12.000 437
+31 28.000 x 118 04.000 483/500
+31 27.200 x 117 05.250 450
+31 23.833 x 116 45.700 60
+31 22.717 x 118 32.283 372
+31 20.000 x 116 45.000 Peanut Bank
+31 18.733 x 118 20.750 250
+31 18.000 x 117 11.000 1140 Finger
+‘31 16.900 x 118 28.500 245
+31 16.800 x 116 50.800 230
+31 13.633 x 118 00.750 400
+31 10R500 x 117 02.500 Lower 500
+31 09.890 x 118 28.300 400
+31 06.8f2 x 116 34.250 52
+
+
+Artificial Reef
+32 53.200 x 117 15.833 Torrey Pines Artificial Reef 1
+32 53.583 x 117 15.583 Torrey Pines Artificial Reef 2
+32 47.333 x 117 16.700 Pacific Beach Artificial Reef 1A
+32 47.400 x 117 16.500 Pacific Beach Artificial Reef 18
+32 47.500 x 117 16.200 Pacific Beach Artificial Reef 1C
+32 47.417 x 117 16.750 Pacific Beach Artificial Reef 2A
+32 47.500 x 117 16.500 Pacific Beach Artificial Reef 28
+32 47.600 x 117 16.200 Pacific Beach Artificial Reef 2C
+32 47.583 x 117 16.833 Pacific Beach Artificial Reef 3A
+32 47.633 X 117 16.567 Pacific Beach Artificial Reef 3B
+32 47.733 x 117 16.233 Pacific Beach Artificial Reef 3C
+32 47.667 x 117 16.917 Pacific Beach Artificial Reef 4A
+32 47.933 x 117 16.583 Pacific Beach Artificial Reef 4B
+32 47.833 x 117 16.300 Pacific Beach Artificial Reef 4C
+32 46.200 x 117 16.067 Mission Bay Park Artificial Kelp Reef
+32 46.367 x 117 16.050 Mission Bay Park NEL Tower
+32 45.930 x 117 16.278 Mission Bay Park Ingraham Street Bridge Rubble
+32 45.850 x 117 16.517 Mission Bay Park Pier Pilings
+
+La Jolla
+32 52.500 x 117 19.000 La Jolla Canyon Shelf rockfish area
+32 51.300 x 117 19.250 La Jolla Shelf hardbottom
+32 51.340 x 117 16.620 The Cove (Stay west of MPA at 117 16.400)
+32 51.490 x 117 16.910 The Bump
+32 51.220 x 117 17.620 The Half
+32 50.630 x 117 18.460 Northwest Corner
+32 50.750 x 117 19.950; 32 Fathom Spot rockfish
+32 50.175 x 117 17.715 iMarine Street
+32 49.716 x 117 17.508 Windansea (Stay north of MPA at 32 49.573)
+32 47.580 x 117 16.580 Crystal Pier (Stay south of MPA at 32 47.945)
+32 46.710 x 117 20.890 The 270 rockfish area
+32 45.970 x 117 22.170 Widow Rock
+32 45.570 x 117 18.460 The Airplane rockfish area
+
+Point Loma
+32 43.790 x 117 16.660 Hill Street
+32 43.180 x 117 16.630 College Area / Sunset Cliffs
+32 42.610 x 117 16.740 Green Tank
+32 41.450 x 117 16.310 The Lab
+32 41.140 x 117 15.990 New Hope Rock
+32 40.870 x 117 16.160 5 Tanks
+32 40.350 x 117 17.000 Point Loma Pipe
+32 39.150 x 117 15.720 The Dropoff
+32 38.250 x 117 14.500 Buoy 3 Hardbottom
+32 37.470 x 117 14.720 Whistler Buoy
+32 40.300 x 117 13.400 Zuniga Jetty
+32 40.100 x 117 11.280 Hotel Del Hardbottom
+
+Imperial Beach
+32 34.500 x 117 09.600 Imperial Beach Kelp
+32 33.000 x 117 09.000 Imperial Beach Kelp South End
+32 34.000 x 117 12.000 Imperial Beach Flats
+32 32.300 x 117 10.800 Imperial Beach Pipe
+
+Artificial Reef
+32 32.672 x 117 14.885 International Reef A
+32 32.668 x 117 14.900 International Reef B
+32 32.625 x 117 14.833 International Reef C
+32 32.647 X 117 14.803 International Reef D
+32 32.717 x 117 14.842 International Reef E
+32 32.567 x 117 14.783 International Reef F
+32 32.495 x 117 14.790 International Reef Missle Tower
+
+CORONADO ISLANDS
+32 26.850 x 117 18.000 Pukey Point
+32 25.810 x 117 15.950 Middle Grounds
+32 24.800 x 117 13.880 Ribbon Kelp
+32 23.290 x 117 14.570 Lighthouse
+32 22.940 x 117 13.515 S-Minute Kelp
+32 22.000 x 117 13.260 South Kelp Ridge
+32 17.620 x 117 10.030 Rockpile
+
+Rockfish areas
+32 32.500 x 117 20.500 Lower 9 Mile Bank
+32 32.500 x 117 20.500 Lower 9 Mile Bank
+32 30.300 x 117 17.500 Coronado Canyon
+32 30.300 x 117 17.500 Coronado Canyon
+32 27.380 x 117 18.000 North of North Island rockfish area
+32 27.380 x 117 18.000 North of North Island rockfish area
+32.27.000 x 117.14.100 East of Pukey Point - Yellowtail & Rockfish
+
+Northern Baja
+32 31.500 x 117 08.600 Bull Ring
+32 21.000 x 117 06.500 Rosarito Flats (Big area)
+32 15.880 x 117 01.890 Punta Descanso
+32 14.836 x 117 00.876 Descanso rockfish 1
+32 14.447 x 116 58.562 Descanso rockfish 2
+32 13.365 x 116 57.814 Sugarloaf Rock
+32 09.580 x 116 54.800 Punta Mesquite
+32 08.460 x 116 54.150 La Fonda
+32 00.500 x 116 52.650 Bajamar
+31 58.385 x 116 50.010 Punta Salsipuedes
+
+Finger Bank rockfish
+32 16.360 x 117 10.470 Upper Finger Bank rockfish 180ft
+32 15.130 x 117 10.260 Upper Finger Bank rockfish 240ft
+32 15.110 x 117 10.950 Upper Finger Bank rockfish 300ft
+32 14.836 x 117 00.876 Descanso rockfish 1
+32 14.480 x 117 11.330 Upper Finger Bank 71 Fathom Spot
+32 14.447 x 116 58.562 Descanso rockfish 2
+32 14.000 x 117 07.100 Upper Finger Bank 27 Fathom Spot
+32 13.365 x 116 57.814 Sugarloaf Rock
+
+Ensenada
+31 54.110 x 116 44.980 Punta San Miguel
+31 52.185 x 116 41.260 Punta Morro
+31 51.200 x 116 48.100 San Miguel Reef
+31 45.430 x 116 45.330 Punta Banda (Caution - boilers)
+
+Punda Banda / Santo Tomas area
+31 43.440 x 116 43.380 La Bufadora
+31 41.080 x 116 40.400 White Rock
+31 38.550 x 116 38.930 El Retiro
+31 37.120 x 116 40.540 Billy's Bluff
+31 37.000 x 116 46.500 4? Fa. Spot
+31 35.600 x 116 49.000 48 Pa. Spot
+31 35.200 x 116 39.800 Bahia Soledad
+31 34.900 x 116 42.900 15 Fa Ridge
+31 33.270 x 116 41.400 Punta Santo Tomas
+31 33.000 x 116 42.900 Isolete
+31 30.500 x 116 43.200 38 Pa. Spot
+31 29.000 x 116 42.800 33 Fa. Spot
+
+Colonet
+30 53.800 x 116 30.200 Colonet High Spot 28 Fathom
+30 50.600 x 116 30.350 Colonet 41 Fathoms
+
+San Quintin Area
+
+30 29.180 x 116 06.150 San Martin Island Anchorage
+30 29.060 x 116 05.910 San Martin Island Natural Jetty Kelp
+30 26.300 x 116 07.000 Roca Ben (Caution - shoals / boilers)
+30 26.300 x 116 07.000 Roca Ben (Caution - shoals / boilers)
+30 25.600 x 116 09.100 6.5 Fathom Spot
+30 22.000 x 116 05.000 15 Fathom Spot
+30 20.100 x 116 06.700 Breakers (240)
+30 17.000 x 115 49.000 Tranquillo Kelp
