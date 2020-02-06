@@ -202,6 +202,30 @@ Artificial Reef
 32 32.567 x 117 14.783 International Reef F
 32 32.495 x 117 14.790 International Reef Missle Tower
 
+San Clemente Island
+33 02.650 x 118 37.580  The 9 Spot (cod)
+33 02.070 x 118 36.780  West End (Castle Rock)
+33 00.500 x 118 35.670  West Cove
+33 02.000 x 118 35.250  North West Harbor
+32 59.460 x 118 35.370  Dunes
+32 56.930 x 118 33.880  Whitefish
+33 02.200 x 118 31.020  White Spot
+32 56.670 x 118 30.100  Gold Bluff
+32 53.100 x 118 35.700  Wagon Tracks
+32 53.580 x 118 26.360 White Rock
+32 52.230 x 118 24.750  Purse Seine Rock
+32 45.520 x 118 24.520  Desperation Reef (cod)
+32 48.920 x 118 21.250  Pyramid Head
+32 48.000 x 118 21.500  Pyramid Reef
+32 49.000 x 118 23.000  Pyramid Cove
+32 48.450 x 118 24.170  The Caves
+32 46.000 x 118 24.500  29 Fathom Spot (cod)
+32 47.750 x 118 26.000  China Point
+32 48.000 x 118 31.500  The Nipple
+32 51.060 x 118 30.210  Lost Point
+32 55.170 x 118 33.410  Eel Point
+
+
 CORONADO ISLANDS
 32 26.850 x 117 18.000 Pukey Point
 32 25.810 x 117 15.950 Middle Grounds
