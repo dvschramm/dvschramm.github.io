@@ -10,10 +10,9 @@ Oceanside / North County
 33 07.500 x 117 21.400 Carlsbad Canyon
 33 06.770 x 117 20.100 Anderson Pipe
 33 05.235 x 117 19.183 Ponto
-33 04.100 x 117 20.600 Leucadia rockfish are
+33 04.100 x 117 20.600 Leucadia rockfish area
 33 03.775 x 117 18.750 Beacons
-33 03.130 x 117 20.920 Encinitas rockfish ar
-North (Say north of SMCA at 33 03.000)
+33 03.130 x 117 20.920 Encinitas rockfish area
 32 59.410 x 117 17.300 Solana Beach Kelp
 32 57.564 x 117 16.743 Powerhouse Kelp
 32 57.191 x 117 17.981 Del Mar rockfish area
@@ -161,14 +160,14 @@ Artificial Reef
 La Jolla
 32 52.500 x 117 19.000 La Jolla Canyon Shelf rockfish area
 32 51.300 x 117 19.250 La Jolla Shelf hardbottom
-32 51.340 x 117 16.620 The Cove (Stay west of MPA at 117 16.400)
+32 51.340 x 117 16.620 The Cove
 32 51.490 x 117 16.910 The Bump
 32 51.220 x 117 17.620 The Half
 32 50.630 x 117 18.460 Northwest Corner
 32 50.750 x 117 19.950; 32 Fathom Spot rockfish
 32 50.175 x 117 17.715 iMarine Street
-32 49.716 x 117 17.508 Windansea (Stay north of MPA at 32 49.573)
-32 47.580 x 117 16.580 Crystal Pier (Stay south of MPA at 32 47.945)
+32 49.716 x 117 17.508 Windansea
+32 47.580 x 117 16.580 Crystal Pier
 32 46.710 x 117 20.890 The 270 rockfish area
 32 45.970 x 117 22.170 Widow Rock
 32 45.570 x 117 18.460 The Airplane rockfish area
@@ -212,7 +211,7 @@ San Clemente Island
 33 02.200 x 118 31.020  White Spot
 32 56.670 x 118 30.100  Gold Bluff
 32 53.100 x 118 35.700  Wagon Tracks
-32 53.580 x 118 26.360 White Rock
+32 53.580 x 118 26.360  White Rock
 32 52.230 x 118 24.750  Purse Seine Rock
 32 45.520 x 118 24.520  Desperation Reef (cod)
 32 48.920 x 118 21.250  Pyramid Head
@@ -236,20 +235,20 @@ CORONADO ISLANDS
 32 17.620 x 117 10.030 Rockpile
 
 Rockfish areas
-32 32.500 x 117 20.500 Lower 9 Mile Bank
-32 32.500 x 117 20.500 Lower 9 Mile Bank
-32 30.300 x 117 17.500 Coronado Canyon
-32 30.300 x 117 17.500 Coronado Canyon
+32 32.500 x 117 20.500 Lower 9 Mile Bank Rockfish Area
+32 32.500 x 117 20.500 Lower 9 Mile Bank Rockfish Area
+32 30.300 x 117 17.500 Coronado Canyon Rockfish Area
+32 30.300 x 117 17.500 Coronado Canyon Rockfish Area
 32 27.380 x 117 18.000 North of North Island rockfish area
 32 27.380 x 117 18.000 North of North Island rockfish area
-32.27.000 x 117.14.100 East of Pukey Point - Yellowtail & Rockfish
+32.27.000 x 117.14.100 East of Pukey Point rockfish area
 
 Northern Baja
 32 31.500 x 117 08.600 Bull Ring
 32 21.000 x 117 06.500 Rosarito Flats (Big area)
 32 15.880 x 117 01.890 Punta Descanso
-32 14.836 x 117 00.876 Descanso rockfish 1
-32 14.447 x 116 58.562 Descanso rockfish 2
+32 14.836 x 117 00.876 Descanso rockfish area 1
+32 14.447 x 116 58.562 Descanso rockfish area 2
 32 13.365 x 116 57.814 Sugarloaf Rock
 32 09.580 x 116 54.800 Punta Mesquite
 32 08.460 x 116 54.150 La Fonda
