@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2021-05-31T14:22:37.725Z</time>
+  <bounds minlat="30.283333333" minlon="-121.066666667" maxlat="34.366666667" maxlon="-115.816666667"/>
+  <wpt lat="33.348000000" lon="-117.567500000">
+    <name>San Onofre Kelp</name>
+    <cmt>San Onofre Kelp</cmt>
+    <desc>San Onofre Kelp</desc>
+  </wpt>
+  <wpt lat="33.288166667" lon="-117.569166667">
+    <name>Box Canyon rockfish area</name>
+    <cmt>Box Canyon rockfish area</cmt>
+    <desc>Box Canyon rockfish area</desc>
+  </wpt>
+  <wpt lat="33.283583333" lon="-117.491250000">
+    <name>Barn Kelp</name>
+    <cmt>Barn Kelp</cmt>
+    <desc>Barn Kelp</desc>
+  </wpt>
+  <wpt lat="33.238333333" lon="-117.455000000">
+    <name>Clam Beds</name>
+    <cmt>Clam Beds</cmt>
+    <desc>Clam Beds</desc>
+  </wpt>
+  <wpt lat="33.240000000" lon="-117.437833333">
+    <name>Golf Ball</name>
+    <cmt>Golf Ball</cmt>
+    <desc>Golf Ball</desc>
+  </wpt>
+  <wpt lat="33.172333333" lon="-117.378333333">
+    <name>Buccaneer Pipe</name>
+    <cmt>Buccaneer Pipe</cmt>
+    <desc>Buccaneer Pipe</desc>
+  </wpt>
+  <wpt lat="33.134333333" lon="-117.347666667">
+    <name>Encina Powerplant Pipe</name>
+    <cmt>Encina Powerplant Pipe</cmt>
+    <desc>Encina Powerplant Pipe</desc>
+  </wpt>
+  <wpt lat="33.124833333" lon="-117.340666667">
+    <name>Terramar Kelp</name>
+    <cmt>Terramar Kelp</cmt>
+    <desc>Terramar Kelp</desc>
+  </wpt>
+  <wpt lat="33.125000000" lon="-117.356666667">
+    <name>Carlsbad Canyon</name>
+    <cmt>Carlsbad Canyon</cmt>
+    <desc>Carlsbad Canyon</desc>
+  </wpt>
+  <wpt lat="33.112833333" lon="-117.335000000">
+    <name>Anderson Pipe</name>
+    <cmt>Anderson Pipe</cmt>
+    <desc>Anderson Pipe</desc>
+  </wpt>
+  <wpt lat="33.087250000" lon="-117.319716667">
+    <name>Ponto</name>
+    <cmt>Ponto</cmt>
+    <desc>Ponto</desc>
+  </wpt>
+  <wpt lat="33.068333333" lon="-117.343333333">
+    <name>Leucadia rockfish area</name>
+    <cmt>Leucadia rockfish area</cmt>
+    <desc>Leucadia rockfish area</desc>
+  </wpt>
+  <wpt lat="33.062916667" lon="-117.312500000">
+    <name>Beacons</name>
+    <cmt>Beacons</cmt>
+    <desc>Beacons</desc>
+  </wpt>
+  <wpt lat="33.052166667" lon="-117.348666667">
+    <name>Encinitas rockfish area</name>
+    <cmt>Encinitas rockfish area</cmt>
+    <desc>Encinitas rockfish area</desc>
+  </wpt>
+  <wpt lat="32.990166667" lon="-117.288333333">
+    <name>Solana Beach Kelp</name>
+    <cmt>Solana Beach Kelp</cmt>
+    <desc>Solana Beach Kelp</desc>
+  </wpt>
+  <wpt lat="32.959400000" lon="-117.279050000">
+    <name>Powerhouse Kelp</name>
+    <cmt>Powerhouse Kelp</cmt>
+    <desc>Powerhouse Kelp</desc>
+  </wpt>
+  <wpt lat="32.953183333" lon="-117.299683333">
+    <name>Del Mar rockfish area</name>
+    <cmt>Del Mar rockfish area</cmt>
+    <desc>Del Mar rockfish area</desc>
+  </wpt>
+  <wpt lat="32.912583333" lon="-117.262583333">
+    <name>Flat Rock</name>
+    <cmt>Flat Rock</cmt>
+    <desc>Flat Rock</desc>
+  </wpt>
+  <wpt lat="34.366666667" lon="-121.066666667">
+    <name>Arguello Canyon</name>
+    <cmt>Arguello Canyon</cmt>
+    <desc>Arguello Canyon</desc>
+  </wpt>
+  <wpt lat="34.216666667" lon="-119.683616667">
+    <name>12 Mile Reef</name>
+    <cmt>12 Mile Reef</cmt>
+    <desc>12 Mile Reef</desc>
+  </wpt>
+  <wpt lat="34.120000000" lon="-120.920000000">
+    <name>Davis Knoll</name>
+    <cmt>Davis Knoll</cmt>
+    <desc>Davis Knoll</desc>
+  </wpt>
+  <wpt lat="34.046666667" lon="-121.050000000">
+    <name>Rodriguez Seamount</name>
+    <cmt>Rodriguez Seamount</cmt>
+    <desc>Rodriguez Seamount</desc>
+  </wpt>
+  <wpt lat="33.943333333" lon="-121.000000000">
+    <name>San Miguel Gap</name>
+    <cmt>San Miguel Gap</cmt>
+    <desc>San Miguel Gap</desc>
+  </wpt>
+  <wpt lat="33.791666667" lon="-118.533333333">
+    <name>307</name>
+    <cmt>307</cmt>
+    <desc>307</desc>
+  </wpt>
+  <wpt lat="33.730550000" lon="-118.705550000">
+    <name>The Boot (504)</name>
+    <cmt>The Boot (504)</cmt>
+    <desc>The Boot (504)</desc>
+  </wpt>
+  <wpt lat="33.730000000" lon="-119.266666667">
+    <name>170</name>
+    <cmt>170</cmt>
+    <desc>170</desc>
+  </wpt>
+  <wpt lat="33.730000000" lon="-119.162216667">
+    <name>Hidden Reef</name>
+    <cmt>Hidden Reef</cmt>
+    <desc>Hidden Reef</desc>
+  </wpt>
+  <wpt lat="33.683333333" lon="-118.575000000">
+    <name>270</name>
+    <cmt>270</cmt>
+    <desc>270</desc>
+  </wpt>
+  <wpt lat="33.616666667" lon="-120.266666667">
+    <name>311 (Trask Knoll)</name>
+    <cmt>311 (Trask Knoll)</cmt>
+    <desc>311 (Trask Knoll)</desc>
+  </wpt>
+  <wpt lat="33.614166667" lon="-118.951950000">
+    <name>175</name>
+    <cmt>175</cmt>
+    <desc>175</desc>
+  </wpt>
+  <wpt lat="33.614166667" lon="-118.951950000">
+    <name>175</name>
+    <cmt>175</cmt>
+    <desc>175</desc>
+  </wpt>
+  <wpt lat="33.575000000" lon="-118.600000000">
+    <name>286</name>
+    <cmt>286</cmt>
+    <desc>286</desc>
+  </wpt>
+  <wpt lat="33.574450000" lon="-119.014166667">
+    <name>Kidney Bank (63)</name>
+    <cmt>Kidney Bank (63)</cmt>
+    <desc>Kidney Bank (63)</desc>
+  </wpt>
+  <wpt lat="33.503333333" lon="-118.841666667">
+    <name>172</name>
+    <cmt>172</cmt>
+    <desc>172</desc>
+  </wpt>
+  <wpt lat="33.500000000" lon="-120.500000000">
+    <name>Patton Ridge</name>
+    <cmt>Patton Ridge</cmt>
+    <desc>Patton Ridge</desc>
+  </wpt>
+  <wpt lat="33.483333333" lon="-118.708333333">
+    <name>125</name>
+    <cmt>125</cmt>
+    <desc>125</desc>
+  </wpt>
+  <wpt lat="33.411666667" lon="-118.225000000">
+    <name>Avalon Bank</name>
+    <cmt>Avalon Bank</cmt>
+    <desc>Avalon Bank</desc>
+  </wpt>
+  <wpt lat="33.397216667" lon="-118.000000000">
+    <name>14 Mile Bank</name>
+    <cmt>14 Mile Bank</cmt>
+    <desc>14 Mile Bank</desc>
+  </wpt>
+  <wpt lat="33.360000000" lon="-119.041666667">
+    <name>Osborn Bank</name>
+    <cmt>Osborn Bank</cmt>
+    <desc>Osborn Bank</desc>
+  </wpt>
+  <wpt lat="33.296666667" lon="-117.819166667">
+    <name>279 / 267</name>
+    <cmt>279 / 267</cmt>
+    <desc>279 / 267</desc>
+  </wpt>
+  <wpt lat="33.296666667" lon="-117.819166667">
+    <name>279 / 267</name>
+    <cmt>279 / 267</cmt>
+    <desc>279 / 267</desc>
+  </wpt>
+  <wpt lat="33.283333333" lon="-118.244450000">
+    <name>The Slide</name>
+    <cmt>The Slide</cmt>
+    <desc>The Slide</desc>
+  </wpt>
+  <wpt lat="33.275000000" lon="-118.741666667">
+    <name>499</name>
+    <cmt>499</cmt>
+    <desc>499</desc>
+  </wpt>
+  <wpt lat="33.250000000" lon="-119.826666667">
+    <name>Potato Bank</name>
+    <cmt>Potato Bank</cmt>
+    <desc>Potato Bank</desc>
+  </wpt>
+  <wpt lat="33.246666667" lon="-118.180550000">
+    <name>152</name>
+    <cmt>152</cmt>
+    <desc>152</desc>
+  </wpt>
+  <wpt lat="33.200000000" lon="-118.080000000">
+    <name>277</name>
+    <cmt>277</cmt>
+    <desc>277</desc>
+  </wpt>
+  <wpt lat="33.158333333" lon="-118.916666667">
+    <name>474</name>
+    <cmt>474</cmt>
+    <desc>474</desc>
+  </wpt>
+  <wpt lat="33.133333333" lon="-119.050000000">
+    <name>711</name>
+    <cmt>711</cmt>
+    <desc>711</desc>
+  </wpt>
+  <wpt lat="33.133333333" lon="-120.366666667">
+    <name>Sverdrup Bank (126)</name>
+    <cmt>Sverdrup Bank (126)</cmt>
+    <desc>Sverdrup Bank (126)</desc>
+  </wpt>
+  <wpt lat="33.095833333" lon="-117.872500000">
+    <name>209</name>
+    <cmt>209</cmt>
+    <desc>209</desc>
+  </wpt>
+  <wpt lat="33.063333333" lon="-120.976666667">
+    <name>San Juan Seamount</name>
+    <cmt>San Juan Seamount</cmt>
+    <desc>San Juan Seamount</desc>
+  </wpt>
+  <wpt lat="33.036666667" lon="-118.393333333">
+    <name>Mackerel Bank</name>
+    <cmt>Mackerel Bank</cmt>
+    <desc>Mackerel Bank</desc>
+  </wpt>
+  <wpt lat="33.023616667" lon="-117.808333333">
+    <name>312</name>
+    <cmt>312</cmt>
+    <desc>312</desc>
+  </wpt>
+  <wpt lat="32.966666667" lon="-119.947216667">
+    <name>Albatross Knoll</name>
+    <cmt>Albatross Knoll</cmt>
+    <desc>Albatross Knoll</desc>
+  </wpt>
+  <wpt lat="32.933333333" lon="-118.095000000">
+    <name>289</name>
+    <cmt>289</cmt>
+    <desc>289</desc>
+  </wpt>
+  <wpt lat="32.908333333" lon="-118.083333333">
+    <name>284</name>
+    <cmt>284</cmt>
+    <desc>284</desc>
+  </wpt>
+  <wpt lat="32.900000000" lon="-117.883333333">
+    <name>181</name>
+    <cmt>181</cmt>
+    <desc>181</desc>
+  </wpt>
+  <wpt lat="32.900000000" lon="-117.313333333">
+    <name>La Jolla Canyon</name>
+    <cmt>La Jolla Canyon</cmt>
+    <desc>La Jolla Canyon</desc>
+  </wpt>
+  <wpt lat="32.866666667" lon="-119.413333333">
+    <name>Cherry Banks</name>
+    <cmt>Cherry Banks</cmt>
+    <desc>Cherry Banks</desc>
+  </wpt>
+  <wpt lat="32.825000000" lon="-117.825000000">
+    <name>51</name>
+    <cmt>51</cmt>
+    <desc>51</desc>
+  </wpt>
+  <wpt lat="32.812500000" lon="-117.822216667">
+    <name>138</name>
+    <cmt>138</cmt>
+    <desc>138</desc>
+  </wpt>
+  <wpt lat="32.812500000" lon="-117.822216667">
+    <name>138</name>
+    <cmt>138</cmt>
+    <desc>138</desc>
+  </wpt>
+  <wpt lat="32.719450000" lon="-118.406116667">
+    <name>81</name>
+    <cmt>81</cmt>
+    <desc>81</desc>
+  </wpt>
+  <wpt lat="32.719450000" lon="-117.786116667">
+    <name>140</name>
+    <cmt>140</cmt>
+    <desc>140</desc>
+  </wpt>
+  <wpt lat="32.700000000" lon="-117.488616667">
+    <name>178</name>
+    <cmt>178</cmt>
+    <desc>178</desc>
+  </wpt>
+  <wpt lat="32.700000000" lon="-119.133333333">
+    <name>Tanner Bank</name>
+    <cmt>Tanner Bank</cmt>
+    <desc>Tanner Bank</desc>
+  </wpt>
+  <wpt lat="32.688333333" lon="-117.706666667">
+    <name>182</name>
+    <cmt>182</cmt>
+    <desc>182</desc>
+  </wpt>
+  <wpt lat="32.683333333" lon="-118.608333333">
+    <name>381</name>
+    <cmt>381</cmt>
+    <desc>381</desc>
+  </wpt>
+  <wpt lat="32.655550000" lon="-117.973616667">
+    <name>43</name>
+    <cmt>43</cmt>
+    <desc>43</desc>
+  </wpt>
+  <wpt lat="32.650000000" lon="-117.728333333">
+    <name>166</name>
+    <cmt>166</cmt>
+    <desc>166</desc>
+  </wpt>
+  <wpt lat="32.633333333" lon="-117.433333333">
+    <name>North 9 Mile Bank</name>
+    <cmt>North 9 Mile Bank</cmt>
+    <desc>North 9 Mile Bank</desc>
+  </wpt>
+  <wpt lat="32.626666667" lon="-117.823333333">
+    <name>The Corner</name>
+    <cmt>The Corner</cmt>
+    <desc>The Corner</desc>
+  </wpt>
+  <wpt lat="32.613333333" lon="-117.939166667">
+    <name>91</name>
+    <cmt>91</cmt>
+    <desc>91</desc>
+  </wpt>
+  <wpt lat="32.595833333" lon="-118.008333333">
+    <name>300</name>
+    <cmt>300</cmt>
+    <desc>300</desc>
+  </wpt>
+  <wpt lat="32.568333333" lon="-119.699450000">
+    <name>Hancock Bank</name>
+    <cmt>Hancock Bank</cmt>
+    <desc>Hancock Bank</desc>
+  </wpt>
+  <wpt lat="32.533333333" lon="-117.350000000">
+    <name>South 9 Mile Bank</name>
+    <cmt>South 9 Mile Bank</cmt>
+    <desc>South 9 Mile Bank</desc>
+  </wpt>
+  <wpt lat="32.500000000" lon="-118.683333333">
+    <name>267 (The Condom)</name>
+    <cmt>267 (The Condom)</cmt>
+    <desc>267 (The Condom)</desc>
+  </wpt>
+  <wpt lat="32.494450000" lon="-117.633333333">
+    <name>226</name>
+    <cmt>226</cmt>
+    <desc>226</desc>
+  </wpt>
+  <wpt lat="32.491666667" lon="-117.400000000">
+    <name>439</name>
+    <cmt>439</cmt>
+    <desc>439</desc>
+  </wpt>
+  <wpt lat="32.440283333" lon="-119.130550000">
+    <name>Cortes Bank</name>
+    <cmt>Cortes Bank</cmt>
+    <desc>Cortes Bank</desc>
+  </wpt>
+  <wpt lat="32.438883333" lon="-117.579166667">
+    <name>302 (Kidney Bank)</name>
+    <cmt>302 (Kidney Bank)</cmt>
+    <desc>302 (Kidney Bank)</desc>
+  </wpt>
+  <wpt lat="32.375000000" lon="-118.466666667">
+    <name>157</name>
+    <cmt>157</cmt>
+    <desc>157</desc>
+  </wpt>
+  <wpt lat="32.366666667" lon="-118.297216667">
+    <name>W. Butterfly</name>
+    <cmt>W. Butterfly</cmt>
+    <desc>W. Butterfly</desc>
+  </wpt>
+  <wpt lat="32.356950000" lon="-117.706950000">
+    <name>230</name>
+    <cmt>230</cmt>
+    <desc>230</desc>
+  </wpt>
+  <wpt lat="32.346666667" lon="-119.640000000">
+    <name>Northeast Bank</name>
+    <cmt>Northeast Bank</cmt>
+    <desc>Northeast Bank</desc>
+  </wpt>
+  <wpt lat="32.316666667" lon="-117.900000000">
+    <name>San Salvador Knoll</name>
+    <cmt>San Salvador Knoll</cmt>
+    <desc>San Salvador Knoll</desc>
+  </wpt>
+  <wpt lat="32.273616667" lon="-118.100000000">
+    <name>East Butterfly</name>
+    <cmt>East Butterfly</cmt>
+    <desc>East Butterfly</desc>
+  </wpt>
+  <wpt lat="32.270000000" lon="-117.546666667">
+    <name>371</name>
+    <cmt>371</cmt>
+    <desc>371</desc>
+  </wpt>
+  <wpt lat="32.250000000" lon="-117.250000000">
+    <name>101</name>
+    <cmt>101</cmt>
+    <desc>101</desc>
+  </wpt>
+  <wpt lat="32.250000000" lon="-117.386666667">
+    <name>425</name>
+    <cmt>425</cmt>
+    <desc>425</desc>
+  </wpt>
+  <wpt lat="32.133333333" lon="-117.866666667">
+    <name>421</name>
+    <cmt>421</cmt>
+    <desc>421</desc>
+  </wpt>
+  <wpt lat="32.113333333" lon="-117.073333333">
+    <name>Upper Finger Bank</name>
+    <cmt>Upper Finger Bank</cmt>
+    <desc>Upper Finger Bank</desc>
+  </wpt>
+  <wpt lat="32.083333333" lon="-117.813333333">
+    <name>390</name>
+    <cmt>390</cmt>
+    <desc>390</desc>
+  </wpt>
+  <wpt lat="32.066666667" lon="-117.116666667">
+    <name>475 Knuckle</name>
+    <cmt>475 Knuckle</cmt>
+    <desc>475 Knuckle</desc>
+  </wpt>
+  <wpt lat="32.066666667" lon="-118.247216667">
+    <name>60 Mile Bank (53 Fa.)</name>
+    <cmt>60 Mile Bank (53 Fa.)</cmt>
+    <desc>60 Mile Bank (53 Fa.)</desc>
+  </wpt>
+  <wpt lat="32.066666667" lon="-118.500000000">
+    <name>Mushroom</name>
+    <cmt>Mushroom</cmt>
+    <desc>Mushroom</desc>
+  </wpt>
+  <wpt lat="32.050000000" lon="-117.466666667">
+    <name>Upper Hidden Bank</name>
+    <cmt>Upper Hidden Bank</cmt>
+    <desc>Upper Hidden Bank</desc>
+  </wpt>
+  <wpt lat="32.000000000" lon="-118.000000000">
+    <name>Upper Cross</name>
+    <cmt>Upper Cross</cmt>
+    <desc>Upper Cross</desc>
+  </wpt>
+  <wpt lat="31.960000000" lon="-116.863616667">
+    <name>97</name>
+    <cmt>97</cmt>
+    <desc>97</desc>
+  </wpt>
+  <wpt lat="31.950000000" lon="-118.983333333">
+    <name>The Worm</name>
+    <cmt>The Worm</cmt>
+    <desc>The Worm</desc>
+  </wpt>
+  <wpt lat="31.900000000" lon="-117.833333333">
+    <name>378</name>
+    <cmt>378</cmt>
+    <desc>378</desc>
+  </wpt>
+  <wpt lat="31.900000000" lon="-117.500000000">
+    <name>Hidden Bank</name>
+    <cmt>Hidden Bank</cmt>
+    <desc>Hidden Bank</desc>
+  </wpt>
+  <wpt lat="31.866666667" lon="-119.466666667">
+    <name>Elephant</name>
+    <cmt>Elephant</cmt>
+    <desc>Elephant</desc>
+  </wpt>
+  <wpt lat="31.833333333" lon="-118.116666667">
+    <name>The Airplane</name>
+    <cmt>The Airplane</cmt>
+    <desc>The Airplane</desc>
+  </wpt>
+  <wpt lat="31.803333333" lon="-117.863333333">
+    <name>213</name>
+    <cmt>213</cmt>
+    <desc>213</desc>
+  </wpt>
+  <wpt lat="31.800000000" lon="-116.790000000">
+    <name>Todos Santos Island</name>
+    <cmt>Todos Santos Island</cmt>
+    <desc>Todos Santos Island</desc>
+  </wpt>
+  <wpt lat="31.766666667" lon="-117.500000000">
+    <name>Upper 500</name>
+    <cmt>Upper 500</cmt>
+    <desc>Upper 500</desc>
+  </wpt>
+  <wpt lat="31.763883333" lon="-117.733333333">
+    <name>1010 Trench</name>
+    <cmt>1010 Trench</cmt>
+    <desc>1010 Trench</desc>
+  </wpt>
+  <wpt lat="31.750000000" lon="-119.066666667">
+    <name>The Pistol</name>
+    <cmt>The Pistol</cmt>
+    <desc>The Pistol</desc>
+  </wpt>
+  <wpt lat="31.700000000" lon="-117.300000000">
+    <name>480</name>
+    <cmt>480</cmt>
+    <desc>480</desc>
+  </wpt>
+  <wpt lat="31.700000000" lon="-118.550000000">
+    <name>Dumping Grounds</name>
+    <cmt>Dumping Grounds</cmt>
+    <desc>Dumping Grounds</desc>
+  </wpt>
+  <wpt lat="31.650000000" lon="-116.866666667">
+    <name>Banda Bank</name>
+    <cmt>Banda Bank</cmt>
+    <desc>Banda Bank</desc>
+  </wpt>
+  <wpt lat="31.616666667" lon="-117.883333333">
+    <name>1067 Knuckle</name>
+    <cmt>1067 Knuckle</cmt>
+    <desc>1067 Knuckle</desc>
+  </wpt>
+  <wpt lat="31.610000000" lon="-117.250000000">
+    <name>385</name>
+    <cmt>385</cmt>
+    <desc>385</desc>
+  </wpt>
+  <wpt lat="31.605000000" lon="-118.930000000">
+    <name>Bell Bank (300)</name>
+    <cmt>Bell Bank (300)</cmt>
+    <desc>Bell Bank (300)</desc>
+  </wpt>
+  <wpt lat="31.600000000" lon="-117.433333333">
+    <name>295</name>
+    <cmt>295</cmt>
+    <desc>295</desc>
+  </wpt>
+  <wpt lat="31.600000000" lon="-117.083333333">
+    <name>475</name>
+    <cmt>475</cmt>
+    <desc>475</desc>
+  </wpt>
+  <wpt lat="31.583333333" lon="-117.650000000">
+    <name>Double 220</name>
+    <cmt>Double 220</cmt>
+    <desc>Double 220</desc>
+  </wpt>
+  <wpt lat="31.566666667" lon="-117.483333333">
+    <name>270</name>
+    <cmt>270</cmt>
+    <desc>270</desc>
+  </wpt>
+  <wpt lat="31.550000000" lon="-117.183333333">
+    <name>238</name>
+    <cmt>238</cmt>
+    <desc>238</desc>
+  </wpt>
+  <wpt lat="31.533333333" lon="-118.200000000">
+    <name>437</name>
+    <cmt>437</cmt>
+    <desc>437</desc>
+  </wpt>
+  <wpt lat="31.466666667" lon="-118.066666667">
+    <name>483/500</name>
+    <cmt>483/500</cmt>
+    <desc>483/500</desc>
+  </wpt>
+  <wpt lat="31.453333333" lon="-117.087500000">
+    <name>450</name>
+    <cmt>450</cmt>
+    <desc>450</desc>
+  </wpt>
+  <wpt lat="31.397216667" lon="-116.761666667">
+    <name>60</name>
+    <cmt>60</cmt>
+    <desc>60</desc>
+  </wpt>
+  <wpt lat="31.378616667" lon="-118.538050000">
+    <name>372</name>
+    <cmt>372</cmt>
+    <desc>372</desc>
+  </wpt>
+  <wpt lat="31.333333333" lon="-116.750000000">
+    <name>Peanut Bank</name>
+    <cmt>Peanut Bank</cmt>
+    <desc>Peanut Bank</desc>
+  </wpt>
+  <wpt lat="31.312216667" lon="-118.345833333">
+    <name>250</name>
+    <cmt>250</cmt>
+    <desc>250</desc>
+  </wpt>
+  <wpt lat="31.300000000" lon="-117.183333333">
+    <name>1140 Finger</name>
+    <cmt>1140 Finger</cmt>
+    <desc>1140 Finger</desc>
+  </wpt>
+  <wpt lat="31.281666667" lon="-118.475000000">
+    <name>245</name>
+    <cmt>245</cmt>
+    <desc>245</desc>
+  </wpt>
+  <wpt lat="31.280000000" lon="-116.846666667">
+    <name>230</name>
+    <cmt>230</cmt>
+    <desc>230</desc>
+  </wpt>
+  <wpt lat="31.227216667" lon="-118.012500000">
+    <name>400</name>
+    <cmt>400</cmt>
+    <desc>400</desc>
+  </wpt>
+  <wpt lat="31.175000000" lon="-117.041666667">
+    <name>Lower 500</name>
+    <cmt>Lower 500</cmt>
+    <desc>Lower 500</desc>
+  </wpt>
+  <wpt lat="31.164833333" lon="-118.471666667">
+    <name>400</name>
+    <cmt>400</cmt>
+    <desc>400</desc>
+  </wpt>
+  <wpt lat="31.113888889" lon="-116.570833333">
+    <name>52</name>
+    <cmt>52</cmt>
+    <desc>52</desc>
+  </wpt>
+  <wpt lat="32.886666667" lon="-117.263883333">
+    <name>Torrey Pines Artificial Reef 1</name>
+    <cmt>Torrey Pines Artificial Reef 1</cmt>
+    <desc>Torrey Pines Artificial Reef 1</desc>
+  </wpt>
+  <wpt lat="32.893050000" lon="-117.259716667">
+    <name>Torrey Pines Artificial Reef 2</name>
+    <cmt>Torrey Pines Artificial Reef 2</cmt>
+    <desc>Torrey Pines Artificial Reef 2</desc>
+  </wpt>
+  <wpt lat="32.788883333" lon="-117.278333333">
+    <name>Pacific Beach Artificial Reef 1A</name>
+    <cmt>Pacific Beach Artificial Reef 1A</cmt>
+    <desc>Pacific Beach Artificial Reef 1A</desc>
+  </wpt>
+  <wpt lat="32.790000000" lon="-117.275000000">
+    <name>Pacific Beach Artificial Reef 18</name>
+    <cmt>Pacific Beach Artificial Reef 18</cmt>
+    <desc>Pacific Beach Artificial Reef 18</desc>
+  </wpt>
+  <wpt lat="32.791666667" lon="-117.270000000">
+    <name>Pacific Beach Artificial Reef 1C</name>
+    <cmt>Pacific Beach Artificial Reef 1C</cmt>
+    <desc>Pacific Beach Artificial Reef 1C</desc>
+  </wpt>
+  <wpt lat="32.790283333" lon="-117.279166667">
+    <name>Pacific Beach Artificial Reef 2A</name>
+    <cmt>Pacific Beach Artificial Reef 2A</cmt>
+    <desc>Pacific Beach Artificial Reef 2A</desc>
+  </wpt>
+  <wpt lat="32.791666667" lon="-117.275000000">
+    <name>Pacific Beach Artificial Reef 28</name>
+    <cmt>Pacific Beach Artificial Reef 28</cmt>
+    <desc>Pacific Beach Artificial Reef 28</desc>
+  </wpt>
+  <wpt lat="32.793333333" lon="-117.270000000">
+    <name>Pacific Beach Artificial Reef 2C</name>
+    <cmt>Pacific Beach Artificial Reef 2C</cmt>
+    <desc>Pacific Beach Artificial Reef 2C</desc>
+  </wpt>
+  <wpt lat="32.793050000" lon="-117.280550000">
+    <name>Pacific Beach Artificial Reef 3A</name>
+    <cmt>Pacific Beach Artificial Reef 3A</cmt>
+    <desc>Pacific Beach Artificial Reef 3A</desc>
+  </wpt>
+  <wpt lat="32.793883333" lon="-117.276116667">
+    <name>Pacific Beach Artificial Reef 3B</name>
+    <cmt>Pacific Beach Artificial Reef 3B</cmt>
+    <desc>Pacific Beach Artificial Reef 3B</desc>
+  </wpt>
+  <wpt lat="32.795550000" lon="-117.270550000">
+    <name>Pacific Beach Artificial Reef 3C</name>
+    <cmt>Pacific Beach Artificial Reef 3C</cmt>
+    <desc>Pacific Beach Artificial Reef 3C</desc>
+  </wpt>
+  <wpt lat="32.794450000" lon="-117.281950000">
+    <name>Pacific Beach Artificial Reef 4A</name>
+    <cmt>Pacific Beach Artificial Reef 4A</cmt>
+    <desc>Pacific Beach Artificial Reef 4A</desc>
+  </wpt>
+  <wpt lat="32.798883333" lon="-117.276383333">
+    <name>Pacific Beach Artificial Reef 4B</name>
+    <cmt>Pacific Beach Artificial Reef 4B</cmt>
+    <desc>Pacific Beach Artificial Reef 4B</desc>
+  </wpt>
+  <wpt lat="32.797216667" lon="-117.271666667">
+    <name>Pacific Beach Artificial Reef 4C</name>
+    <cmt>Pacific Beach Artificial Reef 4C</cmt>
+    <desc>Pacific Beach Artificial Reef 4C</desc>
+  </wpt>
+  <wpt lat="32.770000000" lon="-117.267783333">
+    <name>Mission Bay Park Artificial Kelp Reef</name>
+    <cmt>Mission Bay Park Artificial Kelp Reef</cmt>
+    <desc>Mission Bay Park Artificial Kelp Reef</desc>
+  </wpt>
+  <wpt lat="32.772783333" lon="-117.267500000">
+    <name>Mission Bay Park NEL Tower</name>
+    <cmt>Mission Bay Park NEL Tower</cmt>
+    <desc>Mission Bay Park NEL Tower</desc>
+  </wpt>
+  <wpt lat="32.765500000" lon="-117.271300000">
+    <name>Mission Bay Park Ingraham Street Bridge Rubble</name>
+    <cmt>Mission Bay Park Ingraham Street Bridge Rubble</cmt>
+    <desc>Mission Bay Park Ingraham Street Bridge Rubble</desc>
+  </wpt>
+  <wpt lat="32.764166667" lon="-117.275283333">
+    <name>Mission Bay Park Pier Pilings</name>
+    <cmt>Mission Bay Park Pier Pilings</cmt>
+    <desc>Mission Bay Park Pier Pilings</desc>
+  </wpt>
+  <wpt lat="32.875000000" lon="-117.316666667">
+    <name>La Jolla Canyon Shelf rockfish area</name>
+    <cmt>La Jolla Canyon Shelf rockfish area</cmt>
+    <desc>La Jolla Canyon Shelf rockfish area</desc>
+  </wpt>
+  <wpt lat="32.855000000" lon="-117.320833333">
+    <name>La Jolla Shelf hardbottom</name>
+    <cmt>La Jolla Shelf hardbottom</cmt>
+    <desc>La Jolla Shelf hardbottom</desc>
+  </wpt>
+  <wpt lat="32.855666667" lon="-117.277000000">
+    <name>The Cove</name>
+    <cmt>The Cove</cmt>
+    <desc>The Cove</desc>
+  </wpt>
+  <wpt lat="32.858166667" lon="-117.281833333">
+    <name>The Bump</name>
+    <cmt>The Bump</cmt>
+    <desc>The Bump</desc>
+  </wpt>
+  <wpt lat="32.853666667" lon="-117.293666667">
+    <name>The Half</name>
+    <cmt>The Half</cmt>
+    <desc>The Half</desc>
+  </wpt>
+  <wpt lat="32.843833333" lon="-117.307666667">
+    <name>Northwest Corner</name>
+    <cmt>Northwest Corner</cmt>
+    <desc>Northwest Corner</desc>
+  </wpt>
+  <wpt lat="32.845833333" lon="-117.332500000">
+    <name>32 Fathom Spot rockfish</name>
+    <cmt>32 Fathom Spot rockfish</cmt>
+    <desc>32 Fathom Spot rockfish</desc>
+  </wpt>
+  <wpt lat="32.836250000" lon="-117.295250000">
+    <name>Marine Street</name>
+    <cmt>Marine Street</cmt>
+    <desc>Marine Street</desc>
+  </wpt>
+  <wpt lat="32.828600000" lon="-117.291800000">
+    <name>Windansea</name>
+    <cmt>Windansea</cmt>
+    <desc>Windansea</desc>
+  </wpt>
+  <wpt lat="32.793000000" lon="-117.276333333">
+    <name>Crystal Pier</name>
+    <cmt>Crystal Pier</cmt>
+    <desc>Crystal Pier</desc>
+  </wpt>
+  <wpt lat="32.778500000" lon="-117.348166667">
+    <name>The 270 rockfish area</name>
+    <cmt>The 270 rockfish area</cmt>
+    <desc>The 270 rockfish area</desc>
+  </wpt>
+  <wpt lat="32.766166667" lon="-117.369500000">
+    <name>Widow Rock</name>
+    <cmt>Widow Rock</cmt>
+    <desc>Widow Rock</desc>
+  </wpt>
+  <wpt lat="32.759500000" lon="-117.307666667">
+    <name>The Airplane rockfish area</name>
+    <cmt>The Airplane rockfish area</cmt>
+    <desc>The Airplane rockfish area</desc>
+  </wpt>
+  <wpt lat="32.729833333" lon="-117.277666667">
+    <name>Hill Street</name>
+    <cmt>Hill Street</cmt>
+    <desc>Hill Street</desc>
+  </wpt>
+  <wpt lat="32.719666667" lon="-117.277166667">
+    <name>College Area / Sunset Cliffs</name>
+    <cmt>College Area / Sunset Cliffs</cmt>
+    <desc>College Area / Sunset Cliffs</desc>
+  </wpt>
+  <wpt lat="32.710166667" lon="-117.279000000">
+    <name>Green Tank</name>
+    <cmt>Green Tank</cmt>
+    <desc>Green Tank</desc>
+  </wpt>
+  <wpt lat="32.690833333" lon="-117.271833333">
+    <name>The Lab</name>
+    <cmt>The Lab</cmt>
+    <desc>The Lab</desc>
+  </wpt>
+  <wpt lat="32.685666667" lon="-117.266500000">
+    <name>New Hope Rock</name>
+    <cmt>New Hope Rock</cmt>
+    <desc>New Hope Rock</desc>
+  </wpt>
+  <wpt lat="32.681166667" lon="-117.269333333">
+    <name>5 Tanks</name>
+    <cmt>5 Tanks</cmt>
+    <desc>5 Tanks</desc>
+  </wpt>
+  <wpt lat="32.672500000" lon="-117.283333333">
+    <name>Point Loma Pipe</name>
+    <cmt>Point Loma Pipe</cmt>
+    <desc>Point Loma Pipe</desc>
+  </wpt>
+  <wpt lat="32.652500000" lon="-117.262000000">
+    <name>The Dropoff</name>
+    <cmt>The Dropoff</cmt>
+    <desc>The Dropoff</desc>
+  </wpt>
+  <wpt lat="32.637500000" lon="-117.241666667">
+    <name>Buoy 3 Hardbottom</name>
+    <cmt>Buoy 3 Hardbottom</cmt>
+    <desc>Buoy 3 Hardbottom</desc>
+  </wpt>
+  <wpt lat="32.624500000" lon="-117.245333333">
+    <name>Whistler Buoy</name>
+    <cmt>Whistler Buoy</cmt>
+    <desc>Whistler Buoy</desc>
+  </wpt>
+  <wpt lat="32.671666667" lon="-117.223333333">
+    <name>Zuniga Jetty</name>
+    <cmt>Zuniga Jetty</cmt>
+    <desc>Zuniga Jetty</desc>
+  </wpt>
+  <wpt lat="32.668333333" lon="-117.188000000">
+    <name>Hotel Del Hardbottom</name>
+    <cmt>Hotel Del Hardbottom</cmt>
+    <desc>Hotel Del Hardbottom</desc>
+  </wpt>
+  <wpt lat="32.575000000" lon="-117.160000000">
+    <name>Imperial Beach Kelp</name>
+    <cmt>Imperial Beach Kelp</cmt>
+    <desc>Imperial Beach Kelp</desc>
+  </wpt>
+  <wpt lat="32.550000000" lon="-117.150000000">
+    <name>Imperial Beach Kelp South End</name>
+    <cmt>Imperial Beach Kelp South End</cmt>
+    <desc>Imperial Beach Kelp South End</desc>
+  </wpt>
+  <wpt lat="32.566666667" lon="-117.200000000">
+    <name>Imperial Beach Flats</name>
+    <cmt>Imperial Beach Flats</cmt>
+    <desc>Imperial Beach Flats</desc>
+  </wpt>
+  <wpt lat="32.538333333" lon="-117.180000000">
+    <name>Imperial Beach Pipe</name>
+    <cmt>Imperial Beach Pipe</cmt>
+    <desc>Imperial Beach Pipe</desc>
+  </wpt>
+  <wpt lat="32.544533333" lon="-117.248083333">
+    <name>International Reef A</name>
+    <cmt>International Reef A</cmt>
+    <desc>International Reef A</desc>
+  </wpt>
+  <wpt lat="32.544466667" lon="-117.248333333">
+    <name>International Reef B</name>
+    <cmt>International Reef B</cmt>
+    <desc>International Reef B</desc>
+  </wpt>
+  <wpt lat="32.543750000" lon="-117.247216667">
+    <name>International Reef C</name>
+    <cmt>International Reef C</cmt>
+    <desc>International Reef C</desc>
+  </wpt>
+  <wpt lat="32.544116667" lon="-117.246716667">
+    <name>International Reef D</name>
+    <cmt>International Reef D</cmt>
+    <desc>International Reef D</desc>
+  </wpt>
+  <wpt lat="32.545283333" lon="-117.247366667">
+    <name>International Reef E</name>
+    <cmt>International Reef E</cmt>
+    <desc>International Reef E</desc>
+  </wpt>
+  <wpt lat="32.542783333" lon="-117.246383333">
+    <name>International Reef F</name>
+    <cmt>International Reef F</cmt>
+    <desc>International Reef F</desc>
+  </wpt>
+  <wpt lat="32.541583333" lon="-117.246500000">
+    <name>International Reef Missle Tower</name>
+    <cmt>International Reef Missle Tower</cmt>
+    <desc>International Reef Missle Tower</desc>
+  </wpt>
+  <wpt lat="33.044166667" lon="-118.626333333">
+    <name>The 9 Spot (cod)</name>
+    <cmt>The 9 Spot (cod)</cmt>
+    <desc>The 9 Spot (cod)</desc>
+  </wpt>
+  <wpt lat="33.034500000" lon="-118.613000000">
+    <name>West End (Castle Rock)</name>
+    <cmt>West End (Castle Rock)</cmt>
+    <desc>West End (Castle Rock)</desc>
+  </wpt>
+  <wpt lat="33.008333333" lon="-118.594500000">
+    <name>West Cove</name>
+    <cmt>West Cove</cmt>
+    <desc>West Cove</desc>
+  </wpt>
+  <wpt lat="33.033333333" lon="-118.587500000">
+    <name>North West Harbor</name>
+    <cmt>North West Harbor</cmt>
+    <desc>North West Harbor</desc>
+  </wpt>
+  <wpt lat="32.991000000" lon="-118.589500000">
+    <name>Dunes</name>
+    <cmt>Dunes</cmt>
+    <desc>Dunes</desc>
+  </wpt>
+  <wpt lat="32.948833333" lon="-118.564666667">
+    <name>Whitefish</name>
+    <cmt>Whitefish</cmt>
+    <desc>Whitefish</desc>
+  </wpt>
+  <wpt lat="33.036666667" lon="-118.517000000">
+    <name>White Spot</name>
+    <cmt>White Spot</cmt>
+    <desc>White Spot</desc>
+  </wpt>
+  <wpt lat="32.944500000" lon="-118.501666667">
+    <name>Gold Bluff</name>
+    <cmt>Gold Bluff</cmt>
+    <desc>Gold Bluff</desc>
+  </wpt>
+  <wpt lat="32.885000000" lon="-118.595000000">
+    <name>Wagon Tracks</name>
+    <cmt>Wagon Tracks</cmt>
+    <desc>Wagon Tracks</desc>
+  </wpt>
+  <wpt lat="32.893000000" lon="-118.439333333">
+    <name>White Rock</name>
+    <cmt>White Rock</cmt>
+    <desc>White Rock</desc>
+  </wpt>
+  <wpt lat="32.870500000" lon="-118.412500000">
+    <name>Purse Seine Rock</name>
+    <cmt>Purse Seine Rock</cmt>
+    <desc>Purse Seine Rock</desc>
+  </wpt>
+  <wpt lat="32.758666667" lon="-118.408666667">
+    <name>Desperation Reef (cod)</name>
+    <cmt>Desperation Reef (cod)</cmt>
+    <desc>Desperation Reef (cod)</desc>
+  </wpt>
+  <wpt lat="32.815333333" lon="-118.354166667">
+    <name>Pyramid Head</name>
+    <cmt>Pyramid Head</cmt>
+    <desc>Pyramid Head</desc>
+  </wpt>
+  <wpt lat="32.800000000" lon="-118.358333333">
+    <name>Pyramid Reef</name>
+    <cmt>Pyramid Reef</cmt>
+    <desc>Pyramid Reef</desc>
+  </wpt>
+  <wpt lat="32.816666667" lon="-118.383333333">
+    <name>Pyramid Cove</name>
+    <cmt>Pyramid Cove</cmt>
+    <desc>Pyramid Cove</desc>
+  </wpt>
+  <wpt lat="32.807500000" lon="-118.402833333">
+    <name>The Caves</name>
+    <cmt>The Caves</cmt>
+    <desc>The Caves</desc>
+  </wpt>
+  <wpt lat="32.766666667" lon="-118.408333333">
+    <name>29 Fathom Spot (cod)</name>
+    <cmt>29 Fathom Spot (cod)</cmt>
+    <desc>29 Fathom Spot (cod)</desc>
+  </wpt>
+  <wpt lat="32.795833333" lon="-118.433333333">
+    <name>China Point</name>
+    <cmt>China Point</cmt>
+    <desc>China Point</desc>
+  </wpt>
+  <wpt lat="32.800000000" lon="-118.525000000">
+    <name>The Nipple</name>
+    <cmt>The Nipple</cmt>
+    <desc>The Nipple</desc>
+  </wpt>
+  <wpt lat="32.851000000" lon="-118.503500000">
+    <name>Lost Point</name>
+    <cmt>Lost Point</cmt>
+    <desc>Lost Point</desc>
+  </wpt>
+  <wpt lat="32.919500000" lon="-118.556833333">
+    <name>Eel Point</name>
+    <cmt>Eel Point</cmt>
+    <desc>Eel Point</desc>
+  </wpt>
+  <wpt lat="32.447500000" lon="-117.300000000">
+    <name>Pukey Point</name>
+    <cmt>Pukey Point</cmt>
+    <desc>Pukey Point</desc>
+  </wpt>
+  <wpt lat="32.430166667" lon="-117.265833333">
+    <name>Middle Grounds</name>
+    <cmt>Middle Grounds</cmt>
+    <desc>Middle Grounds</desc>
+  </wpt>
+  <wpt lat="32.413333333" lon="-117.231333333">
+    <name>Ribbon Kelp</name>
+    <cmt>Ribbon Kelp</cmt>
+    <desc>Ribbon Kelp</desc>
+  </wpt>
+  <wpt lat="32.388166667" lon="-117.242833333">
+    <name>Lighthouse</name>
+    <cmt>Lighthouse</cmt>
+    <desc>Lighthouse</desc>
+  </wpt>
+  <wpt lat="32.382333333" lon="-117.225250000">
+    <name>5 Minute Kelp</name>
+    <cmt>5 Minute Kelp</cmt>
+    <desc>5 Minute Kelp</desc>
+  </wpt>
+  <wpt lat="32.366666667" lon="-117.221000000">
+    <name>South Kelp Ridge</name>
+    <cmt>South Kelp Ridge</cmt>
+    <desc>South Kelp Ridge</desc>
+  </wpt>
+  <wpt lat="32.293666667" lon="-117.167166667">
+    <name>Rockpile</name>
+    <cmt>Rockpile</cmt>
+    <desc>Rockpile</desc>
+  </wpt>
+  <wpt lat="32.541666667" lon="-117.341666667">
+    <name>Lower 9 Mile Bank Rockfish Area</name>
+    <cmt>Lower 9 Mile Bank Rockfish Area</cmt>
+    <desc>Lower 9 Mile Bank Rockfish Area</desc>
+  </wpt>
+  <wpt lat="32.541666667" lon="-117.341666667">
+    <name>Lower 9 Mile Bank Rockfish Area</name>
+    <cmt>Lower 9 Mile Bank Rockfish Area</cmt>
+    <desc>Lower 9 Mile Bank Rockfish Area</desc>
+  </wpt>
+  <wpt lat="32.505000000" lon="-117.291666667">
+    <name>Coronado Canyon Rockfish Area</name>
+    <cmt>Coronado Canyon Rockfish Area</cmt>
+    <desc>Coronado Canyon Rockfish Area</desc>
+  </wpt>
+  <wpt lat="32.505000000" lon="-117.291666667">
+    <name>Coronado Canyon Rockfish Area</name>
+    <cmt>Coronado Canyon Rockfish Area</cmt>
+    <desc>Coronado Canyon Rockfish Area</desc>
+  </wpt>
+  <wpt lat="32.456333333" lon="-117.300000000">
+    <name>North of North Island rockfish area</name>
+    <cmt>North of North Island rockfish area</cmt>
+    <desc>North of North Island rockfish area</desc>
+  </wpt>
+  <wpt lat="32.456333333" lon="-117.300000000">
+    <name>North of North Island rockfish area</name>
+    <cmt>North of North Island rockfish area</cmt>
+    <desc>North of North Island rockfish area</desc>
+  </wpt>
+  <wpt lat="32.270000000" lon="-117.140000000">
+    <name>East of Pukey Point rockfish area</name>
+    <cmt>East of Pukey Point rockfish area</cmt>
+    <desc>East of Pukey Point rockfish area</desc>
+  </wpt>
+  <wpt lat="32.525000000" lon="-117.143333333">
+    <name>Bull Ring</name>
+    <cmt>Bull Ring</cmt>
+    <desc>Bull Ring</desc>
+  </wpt>
+  <wpt lat="32.350000000" lon="-117.108333333">
+    <name>Rosarito Flats (Big area)</name>
+    <cmt>Rosarito Flats (Big area)</cmt>
+    <desc>Rosarito Flats (Big area)</desc>
+  </wpt>
+  <wpt lat="32.264666667" lon="-117.031500000">
+    <name>Punta Descanso</name>
+    <cmt>Punta Descanso</cmt>
+    <desc>Punta Descanso</desc>
+  </wpt>
+  <wpt lat="32.247266667" lon="-117.014600000">
+    <name>Descanso rockfish area 1</name>
+    <cmt>Descanso rockfish area 1</cmt>
+    <desc>Descanso rockfish area 1</desc>
+  </wpt>
+  <wpt lat="32.240783333" lon="-116.976033333">
+    <name>Descanso rockfish area 2</name>
+    <cmt>Descanso rockfish area 2</cmt>
+    <desc>Descanso rockfish area 2</desc>
+  </wpt>
+  <wpt lat="32.222750000" lon="-116.963566667">
+    <name>Sugarloaf Rock</name>
+    <cmt>Sugarloaf Rock</cmt>
+    <desc>Sugarloaf Rock</desc>
+  </wpt>
+  <wpt lat="32.159666667" lon="-116.913333333">
+    <name>Punta Mesquite</name>
+    <cmt>Punta Mesquite</cmt>
+    <desc>Punta Mesquite</desc>
+  </wpt>
+  <wpt lat="32.141000000" lon="-116.902500000">
+    <name>La Fonda</name>
+    <cmt>La Fonda</cmt>
+    <desc>La Fonda</desc>
+  </wpt>
+  <wpt lat="32.008333333" lon="-116.877500000">
+    <name>Bajamar</name>
+    <cmt>Bajamar</cmt>
+    <desc>Bajamar</desc>
+  </wpt>
+  <wpt lat="31.973083333" lon="-116.833500000">
+    <name>Punta Salsipuedes</name>
+    <cmt>Punta Salsipuedes</cmt>
+    <desc>Punta Salsipuedes</desc>
+  </wpt>
+  <wpt lat="32.272666667" lon="-117.174500000">
+    <name>Upper Finger Bank rockfish 180ft</name>
+    <cmt>Upper Finger Bank rockfish 180ft</cmt>
+    <desc>Upper Finger Bank rockfish 180ft</desc>
+  </wpt>
+  <wpt lat="32.252166667" lon="-117.171000000">
+    <name>Upper Finger Bank rockfish 240ft</name>
+    <cmt>Upper Finger Bank rockfish 240ft</cmt>
+    <desc>Upper Finger Bank rockfish 240ft</desc>
+  </wpt>
+  <wpt lat="32.251833333" lon="-117.182500000">
+    <name>Upper Finger Bank rockfish 300ft</name>
+    <cmt>Upper Finger Bank rockfish 300ft</cmt>
+    <desc>Upper Finger Bank rockfish 300ft</desc>
+  </wpt>
+  <wpt lat="32.247266667" lon="-117.014600000">
+    <name>Descanso rockfish 1</name>
+    <cmt>Descanso rockfish 1</cmt>
+    <desc>Descanso rockfish 1</desc>
+  </wpt>
+  <wpt lat="32.241333333" lon="-117.188833333">
+    <name>Upper Finger Bank 71 Fathom Spot</name>
+    <cmt>Upper Finger Bank 71 Fathom Spot</cmt>
+    <desc>Upper Finger Bank 71 Fathom Spot</desc>
+  </wpt>
+  <wpt lat="32.240783333" lon="-116.976033333">
+    <name>Descanso rockfish 2</name>
+    <cmt>Descanso rockfish 2</cmt>
+    <desc>Descanso rockfish 2</desc>
+  </wpt>
+  <wpt lat="32.233333333" lon="-117.118333333">
+    <name>Upper Finger Bank 27 Fathom Spot</name>
+    <cmt>Upper Finger Bank 27 Fathom Spot</cmt>
+    <desc>Upper Finger Bank 27 Fathom Spot</desc>
+  </wpt>
+  <wpt lat="32.222750000" lon="-116.963566667">
+    <name>Sugarloaf Rock</name>
+    <cmt>Sugarloaf Rock</cmt>
+    <desc>Sugarloaf Rock</desc>
+  </wpt>
+  <wpt lat="31.901833333" lon="-116.749666667">
+    <name>Punta San Miguel</name>
+    <cmt>Punta San Miguel</cmt>
+    <desc>Punta San Miguel</desc>
+  </wpt>
+  <wpt lat="31.869750000" lon="-116.687666667">
+    <name>Punta Morro</name>
+    <cmt>Punta Morro</cmt>
+    <desc>Punta Morro</desc>
+  </wpt>
+  <wpt lat="31.853333333" lon="-116.801666667">
+    <name>San Miguel Reef</name>
+    <cmt>San Miguel Reef</cmt>
+    <desc>San Miguel Reef</desc>
+  </wpt>
+  <wpt lat="31.757166667" lon="-116.755500000">
+    <name>Punta Banda (Caution - boilers)</name>
+    <cmt>Punta Banda (Caution - boilers)</cmt>
+    <desc>Punta Banda (Caution - boilers)</desc>
+  </wpt>
+  <wpt lat="31.724000000" lon="-116.723000000">
+    <name>La Bufadora</name>
+    <cmt>La Bufadora</cmt>
+    <desc>La Bufadora</desc>
+  </wpt>
+  <wpt lat="31.684666667" lon="-116.673333333">
+    <name>White Rock</name>
+    <cmt>White Rock</cmt>
+    <desc>White Rock</desc>
+  </wpt>
+  <wpt lat="31.642500000" lon="-116.648833333">
+    <name>El Retiro</name>
+    <cmt>El Retiro</cmt>
+    <desc>El Retiro</desc>
+  </wpt>
+  <wpt lat="31.618666667" lon="-116.675666667">
+    <name>Billy's Bluff</name>
+    <cmt>Billy's Bluff</cmt>
+    <desc>Billy's Bluff</desc>
+  </wpt>
+  <wpt lat="31.616666667" lon="-116.775000000">
+    <name>4? Fa. Spot</name>
+    <cmt>4? Fa. Spot</cmt>
+    <desc>4? Fa. Spot</desc>
+  </wpt>
+  <wpt lat="31.593333333" lon="-116.816666667">
+    <name>48 Pa. Spot</name>
+    <cmt>48 Pa. Spot</cmt>
+    <desc>48 Pa. Spot</desc>
+  </wpt>
+  <wpt lat="31.586666667" lon="-116.663333333">
+    <name>Bahia Soledad</name>
+    <cmt>Bahia Soledad</cmt>
+    <desc>Bahia Soledad</desc>
+  </wpt>
+  <wpt lat="31.581666667" lon="-116.715000000">
+    <name>15 Fa Ridge</name>
+    <cmt>15 Fa Ridge</cmt>
+    <desc>15 Fa Ridge</desc>
+  </wpt>
+  <wpt lat="31.554500000" lon="-116.690000000">
+    <name>Punta Santo Tomas</name>
+    <cmt>Punta Santo Tomas</cmt>
+    <desc>Punta Santo Tomas</desc>
+  </wpt>
+  <wpt lat="31.550000000" lon="-116.715000000">
+    <name>Isolete</name>
+    <cmt>Isolete</cmt>
+    <desc>Isolete</desc>
+  </wpt>
+  <wpt lat="31.508333333" lon="-116.720000000">
+    <name>38 Pa. Spot</name>
+    <cmt>38 Pa. Spot</cmt>
+    <desc>38 Pa. Spot</desc>
+  </wpt>
+  <wpt lat="31.483333333" lon="-116.713333333">
+    <name>33 Fa. Spot</name>
+    <cmt>33 Fa. Spot</cmt>
+    <desc>33 Fa. Spot</desc>
+  </wpt>
+  <wpt lat="30.896666667" lon="-116.503333333">
+    <name>Colonet High Spot 28 Fathom</name>
+    <cmt>Colonet High Spot 28 Fathom</cmt>
+    <desc>Colonet High Spot 28 Fathom</desc>
+  </wpt>
+  <wpt lat="30.843333333" lon="-116.505833333">
+    <name>Colonet 41 Fathoms</name>
+    <cmt>Colonet 41 Fathoms</cmt>
+    <desc>Colonet 41 Fathoms</desc>
+  </wpt>
+  <wpt lat="30.486333333" lon="-116.102500000">
+    <name>San Martin Island Anchorage</name>
+    <cmt>San Martin Island Anchorage</cmt>
+    <desc>San Martin Island Anchorage</desc>
+  </wpt>
+  <wpt lat="30.484333333" lon="-116.098500000">
+    <name>San Martin Island Natural Jetty Kelp</name>
+    <cmt>San Martin Island Natural Jetty Kelp</cmt>
+    <desc>San Martin Island Natural Jetty Kelp</desc>
+  </wpt>
+  <wpt lat="30.438333333" lon="-116.116666667">
+    <name>Roca Ben (Caution - shoals / boilers)</name>
+    <cmt>Roca Ben (Caution - shoals / boilers)</cmt>
+    <desc>Roca Ben (Caution - shoals / boilers)</desc>
+  </wpt>
+  <wpt lat="30.438333333" lon="-116.116666667">
+    <name>Roca Ben (Caution - shoals / boilers)</name>
+    <cmt>Roca Ben (Caution - shoals / boilers)</cmt>
+    <desc>Roca Ben (Caution - shoals / boilers)</desc>
+  </wpt>
+  <wpt lat="30.426666667" lon="-116.151666667">
+    <name>6.5 Fathom Spot</name>
+    <cmt>6.5 Fathom Spot</cmt>
+    <desc>6.5 Fathom Spot</desc>
+  </wpt>
+  <wpt lat="30.366666667" lon="-116.083333333">
+    <name>15 Fathom Spot</name>
+    <cmt>15 Fathom Spot</cmt>
+    <desc>15 Fathom Spot</desc>
+  </wpt>
+  <wpt lat="30.335000000" lon="-116.111666667">
+    <name>Breakers (240)</name>
+    <cmt>Breakers (240)</cmt>
+    <desc>Breakers (240)</desc>
+  </wpt>
+  <wpt lat="30.283333333" lon="-115.816666667">
+    <name>Tranquillo Kelp</name>
+    <cmt>Tranquillo Kelp</cmt>
+    <desc>Tranquillo Kelp</desc>
+  </wpt>
+</gpx>
